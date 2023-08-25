@@ -2,8 +2,6 @@
 Nightrider
 
 # Teammitglieder
-Listen Sie hier alle Teammitglieder auf.
-
 - Jannik Maaß, 11131719
 - Mohammadamin Sabetnia, 11149745
 - Losik Amir Khanian, 11148837
