@@ -17,7 +17,7 @@ Listen Sie hier alle Teammitglieder auf.
 
 
 # Featureliste
-- Objekte modellieren, laden & transformieren (Jannik)
+- Objekte modellieren, laden, transformieren und zu einer Szene zusammenstellen (Jannik)
 - Texturen (Boden & Auto) (Jannik)
 - Animationen (Starttext, Schießen, Häuser, Gegner, Fahrstreifen, Boden) (Jannik)
 - First Person View (Jannik)
@@ -26,6 +26,7 @@ Listen Sie hier alle Teammitglieder auf.
 - Kolisionserkennung (Jannik)
 - Timer für Punkte & automatisches Nachladen (Jannik)
 - Schussystem (Jannik)
+- Zufällige Spurwahl & Entfernung der Gegner (Jannik)
 
 # Quellenverzeichnis
 Listen Sie hier ALLE Quellen der genutzten Ressourcen auf.
