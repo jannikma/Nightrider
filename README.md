@@ -20,4 +20,4 @@ Nightrider
 - Zufällige Spurwahl & Entfernung der Gegner (Jannik)
 
 # Quellenverzeichnis
-Listen Sie hier ALLE Quellen der genutzten Ressourcen auf.
+Hyundai: https://open3dmodel.com/3d-models/hyundai-car_298839.html
