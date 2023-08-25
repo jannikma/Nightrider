@@ -8,16 +8,16 @@ Nightrider
 
 
 # Featureliste
-- Objekte modellieren, laden, transformieren und zu einer Szene zusammenstellen (Jannik)
+- Objekte modellieren, laden, transformieren und zu einer Szene zusammenstellen (Jannik & Mohammadamin)
 - Texturen (Boden & Auto) (Jannik)
 - Animationen (Starttext, Schießen, Häuser, Gegner, Fahrstreifen, Boden) (Jannik)
 - First Person View (Mohammadamin)
-- Third Person View (Lousi)
+- Third Person View (Losik)
 - Steuerung (Jannik)
 - Kolisionserkennung (Jannik)
-- Timer für Punkte & automatisches Nachladen (Lousi)
-- Schussystem (Benjamin)
-- Zufällige Spurwahl & Entfernung der Gegner (Jannik)
+- Timer für Punkte & automatisches Nachladen (Losik)
+- Schussystem (Mohammadamin)
+- Zufällige Spurwahl & Entfernung der Gegner (Jannik & Losik)
 
 # Quellenverzeichnis
 Hyundai: https://open3dmodel.com/3d-models/hyundai-car_298839.html
