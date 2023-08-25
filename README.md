@@ -11,12 +11,12 @@ Nightrider
 - Objekte modellieren, laden, transformieren und zu einer Szene zusammenstellen (Jannik)
 - Texturen (Boden & Auto) (Jannik)
 - Animationen (Starttext, Schießen, Häuser, Gegner, Fahrstreifen, Boden) (Jannik)
-- First Person View (Jannik)
-- Third Person View (Jannik)
+- First Person View (Mohammadamin)
+- Third Person View (Lousi)
 - Steuerung (Jannik)
 - Kolisionserkennung (Jannik)
-- Timer für Punkte & automatisches Nachladen (Jannik)
-- Schussystem (Jannik)
+- Timer für Punkte & automatisches Nachladen (Lousi)
+- Schussystem (Benjamin)
 - Zufällige Spurwahl & Entfernung der Gegner (Jannik)
 
 # Quellenverzeichnis
